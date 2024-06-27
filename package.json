@@ -1,5 +1,5 @@
 {
-  "name": "JITOSSA",
+  "name": "Tadla",
   "version": "1.0.0",
   "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/OMARCHARAF1/JITOSSA",
+  "homepage": "https://github.com/abdlkrim07/JITOSSA",
   "author": {
     "name": "OMAR CHARAF"
   },
