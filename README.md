@@ -21,8 +21,8 @@
 
 ## ```Connect With Me```
 
-<a href="https://api.whatsapp.com/send?phone=212670941551&text=hello+Omar"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://instagram.com/ovmar_1"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=212720534550&text=hello+abdlkrim"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://instagram.com/abdlkrim_yt"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 
